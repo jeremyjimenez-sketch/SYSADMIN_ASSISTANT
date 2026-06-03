@@ -1,0 +1,34 @@
+GUION PARA EL VIDEO DE YOUTUBE - SYSADMIN ASSISTANT
+Duracion recomendada: 5 a 10 minutos
+
+1. Presentacion inicial
+Hola, somos el grupo encargado del microproyecto final de Sistemas Operativos. Nuestro proyecto se llama SYSADMIN ASSISTANT, un sistema desarrollado en Python para automatizar y monitorear tareas del sistema operativo.
+
+2. Problema
+Una pequena empresa no cuenta con personal especializado para administrar sus computadores. Por eso necesita una herramienta que permita revisar el estado del equipo, organizar archivos, hacer copias de seguridad, generar reportes y controlar procesos activos.
+
+3. Tecnologias
+El proyecto fue desarrollado en Python 3 usando librerias como os, pathlib, shutil, datetime, psutil, schedule y tkinter para la interfaz grafica.
+
+4. Demostracion del modulo de informacion del sistema
+En esta pestana podemos ver el nombre del equipo, usuario actual, sistema operativo, version, arquitectura, direccion IP, memoria RAM, CPU y almacenamiento.
+
+5. Demostracion del monitor de procesos
+Aqui se muestran los procesos activos con PID, nombre, uso de CPU, memoria y estado. Tambien se puede buscar un proceso y finalizarlo de forma segura.
+
+6. Demostracion del organizador de archivos
+Seleccionamos una carpeta y la aplicacion organiza automaticamente los archivos por categorias como PDF, Word, Excel, imagenes, videos, audio, codigo y otros.
+
+7. Demostracion del sistema de copias de seguridad
+Seleccionamos una carpeta origen y una carpeta destino. La aplicacion crea un respaldo con fecha y hora y registra cuantos archivos fueron copiados.
+
+8. Demostracion de reportes
+El sistema genera reportes en PDF, TXT o CSV con informacion del sistema, recursos utilizados, procesos activos y fecha de generacion.
+
+9. Automatizacion programada
+El sistema permite programar tareas automaticas como generar reportes, realizar backup u organizar archivos cada cierto numero de minutos.
+
+10. Conclusiones
+- Python permite interactuar con el sistema operativo y automatizar tareas repetitivas.
+- El monitoreo de CPU, RAM, disco y procesos ayuda a diagnosticar el estado del equipo.
+- Una herramienta de automatizacion mejora el tiempo de respuesta y facilita la administracion de computadores.
